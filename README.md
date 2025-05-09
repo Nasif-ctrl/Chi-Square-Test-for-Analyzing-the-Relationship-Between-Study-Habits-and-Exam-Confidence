@@ -1,4 +1,4 @@
-# Chi-Square-Test-for-Analyzing-the-Relationship-Between-Study-Habits-and-Exam-Confidence  
+# Chi-Square Test for Analyzing the Relationship Between Study Habits and Exam Confidence  
 
 ## 📝 __Overview__  
 This project investigates whether students who spend more time studying feel more confident about their exam performance. It uses a simulated dataset of 250 student responses, categorizing both study hours and exam confidence on an ordinal scale.  
